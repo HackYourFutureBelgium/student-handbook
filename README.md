@@ -1,6 +1,6 @@
 # Student Handbook
 
-[](./images/hyf-logo.png)
+![](./images/hyf-logo.png)
 
 * [introduction](#introduction)
 * [table of contents](#table-of-contents)
