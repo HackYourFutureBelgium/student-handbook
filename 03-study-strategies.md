@@ -57,7 +57,7 @@ We have a certain number of articles and videos that we share as part of the cur
 ### How to Improve the Curriculum!
 
 1. Go to the Github page you want to add a suggestion to 
-2. Click on Issues. [](./images/using-issues.png)
+2. Click on Issues. ![](./images/using-issues.png)
 3. Click new issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
 4. We will review it and if we find it useful, add it to the curriculum.
 
