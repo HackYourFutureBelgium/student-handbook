@@ -148,7 +148,7 @@ function takeOutRottenFruit(arrayOfFruits) {
 const freshhhh = takeOutRottenFruit(fruits);
 ```
 
-Yay! It seems to work!
+_Yay! It seems to work!_
 
 ### Reflect (6)
 
