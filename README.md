@@ -36,7 +36,7 @@ __The HackYourFuture team__
 
 ## Table of Contents
 
-1. [Core Values](./00-core-values)
+1. [Core Values](./00-core-values.md)
 1. [Course Overview](./01-course-overview.md) 
 1. [How to study programming](./02-how-to-study-programming.md) (tips for non-programmers)
 1. [Study Strategies](./03-study-strategies.md)
