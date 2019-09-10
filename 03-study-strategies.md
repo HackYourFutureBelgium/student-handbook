@@ -5,11 +5,11 @@ Most people study inefficiently. This is mostly because they never really learne
 As the HackYourFuture course is very demanding, this is critical to get through the program successfully. In fact, many successful experts that require focus and concentration for their craft (scientists, programmers, writers, artists, craftsmen, etc.) share one thing in common: they are very serious about ​how ​they learn. This chapter will give you a short introduction into how you can study most effectively.
 
 ### Index
-* [planning](planning)
+* [Planning](planning)
 * [Don’t just read, code it!](#Don-t-just-read--code-it)
 * [Go to the basics](#Go-to-the-basics)
 * [Sleep, Breaks and Exercise](#Sleep--Breaks-and-Exercise)
-* [distractions](#distractions)
+* [Distractions](#distractions)
 * [How to become a pro at learning](#How-to-become-a-pro-at-learning)
 
 ---
