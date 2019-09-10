@@ -23,8 +23,8 @@ Your homework will consist of various components. You will need to:
 * apply ​this knowledge in the homework exercises.
 
 Every week consists of the homework of the previous week and the reading material for the following week. For example, let’s say you are preparing for the lecture of JavaScript 1 week 3 on Sunday. This means you will have to do:
-* the ​HOMEWORK o​ f JavaScript 1 week 2 (The MAKEME.md ​here​)
-* the ​READING​ for JavaScript 1 week 3 (The README.md ​here​)
+* the ​HOMEWORK​ of JavaScript 1 week 2
+* the ​Prep Work​ for JavaScript 1 week 3
 
 Before you start doing anything, it’s good to ​plan your week ahead.
 Divide the large amounts of tasks into small pieces, and think about how much time you expect spend on each task by having a quick look at it.
@@ -33,8 +33,8 @@ Let’s take the example of JavaScript 1 week 3.
 
 __Homework + Recap (19 hours)__
 1. Recapping previous concepts (5 hours) 
-2. JavaScript exercises (4 hours)
-3. Freecodecamp challenges (10 hours)
+2. Module Exercises (4 hours)
+3. Weekly Project (10 hours)
 
 Before starting the homework it is essential to first have a look at the concepts discussed in the previous week(s) before moving forward.
 
@@ -63,7 +63,7 @@ We have a certain number of articles and videos that we share as part of the cur
 
 We are looking forward to your ideas & suggestions!
 
-The homework and reading material combined take around​ 25 hours​, however this does not account for getting stuck with exercises. Therefore, you probably want to add another 5 hours at least.
+The homework and reading material combined take around​ 25 hours​, however this does not account for getting stuck with exercises. Therefore, you probably want to add another 10 hours at least.
 
 Now that you know how much time you have available and which are the activities you need to study per day, it’s time to make a ​weekly schedule​. The key here is not to wait until Wednesday or Thursday, but to start Monday morning already. Learning programming concepts takes time, and if you try to do everything at the end of the week, your brain has very little time to process these concepts. Per day you schedule a number of small tasks, and once you are finished you can feel good about finishing the tasks of the day.
 
