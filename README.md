@@ -2,9 +2,9 @@
 
 ![](./images/hyf-logo.png)
 
-* [introduction](#introduction)
-* [table of contents](#table-of-contents)
-* [final thoughts](#final-thoughts)
+* [Introduction](#introduction)
+* [Table of contents](#table-of-contents)
+* [Final thoughts](#final-thoughts)
 
 ---
 
