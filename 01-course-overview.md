@@ -23,7 +23,7 @@ In the following section you’ll get an overview of all the subjects you’ll b
 
 ## Curriculum
 
-To facilitate your learning, we have developed a curriculum, which you can find here: https://github.com/HackYourFutureBelgium/curriculum.
+To facilitate your learning, we have developed a curriculum, which you can find here: https://curriculum.hackyourfuture.be.
 
 The 7 months are divided into different modules, each building on the one before. Here’s the overview:
 1. _HTML/CSS​:_ This is the foundation. Every website you know ultimately consists of these two technologies. You will learn how to create simple web pages (HTML) and how to make them look nice (CSS).
@@ -36,7 +36,7 @@ and undo your work whenever needed.
 7. _React.js:_ Currently the most popular way to create fast and dynamic user interfaces. In this module you will learn how to build a more modern and dynamic frontend that changes depending on what the user does.
 8. _Project:_ This is where all your knowledge and experience are put to the test. You will be working on a real projects for a real client.
 
-![](./images/course-overview.png)
+<!-- ![](./images/course-overview.png) -->
 
 [TOP](#course-overview)
 
@@ -46,9 +46,9 @@ and undo your work whenever needed.
 
 As mentioned, our complete curriculum can be found on ​[Github​](https://github.com/HackYourFutureBelgium). The modules are ordered sequentially.
 
-The homework can be found in the module repository. For example, if you click on [HTML-CSS​](https://github.com/HackYourFutureBelgium/HTML-CSS) you’ll be taken to the document that has all the information about that particular subject. If you scroll down you’ll see a table with a column of ​Homework
+The homework can be found in the module repository. The main README.md will contain links to each week's _prep work_, _lesson plan_ and _assignments_.  You'll also find a collection of helpful links inclulding example projects, practical info & a link to https://study.hackyourfuture.be.
 
-![](./images/html-css-homework.png)
+<!-- ![](./images/html-css-homework.png) -->
 
 After the first couple of weeks, this is also where you will publish your homework. In the beginning you might struggle to use Github. But there is a reason we use it: It is the number 1 platform for programmers! To become a good programmer, means you will have to understand how Github works. You will notice that after a few weeks, finding the right homework assignments and reading and pushing your code to Github, will become automatic.
 
