@@ -1,17 +1,16 @@
 # Course Overview
 
-During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean?
+During the next 7 months, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean?
 
-At the end of the 7 months you will leave HackYourFuture with:
+At the end of the 7 months you will finish the HackYourFuture program with:
 * The skills to build your own full-stack web applications.
 * Experience working in a team
 * Access to the Alumni Network: a community of HackYourFuture graduates.
 * A decent CV and LinkedIn profile coupled with interview skills
 * Introductions to companies looking to hire programmers
 
-In order for this to be turned into reality, you will have to work very hard for the next half a year.
-
-In the following section you’ll get an overview of all the subjects you’ll be learning through the course. Keep in mind that .
+In order for this to be turned into reality, you will have to work very hard, every day.
+In the following section you’ll get an overview of all the subjects you’ll be learning through the course.
 
 ### Index
 1. [Curriculum](#curriculum)
