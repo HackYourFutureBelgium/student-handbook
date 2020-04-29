@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Dear new student of HackYourFuture, Welcome to our community!
+Dear student of HackYourFuture, Welcome to our community!
 
 On average, we receive 100-150 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment.
 
@@ -30,6 +30,7 @@ Good luck on your journey!
 PS. Like you, this document is always improving. If you feel something is missing or might be improved, please send a pull request or open an issue.
 
 __The HackYourFuture team__
+
 
 ---
 
