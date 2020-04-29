@@ -19,7 +19,7 @@ You are now a member of a growing community and our course will be challenging. 
 Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
 
 This guide consists of five chapters. 
-* Chapter one lays out HackYourFuture’s core values.
+* Chapter 1 lays out HackYourFuture’s core values.
 * Chapter 2 provides an answer to the question: What will I learn at HackYourFuture? 
 * Chapter 3 discusses the six steps of problem solving, the core skill of what programming is really all about. 
 * Chapter 4 answers the question how to study programming most effectively. 
@@ -45,7 +45,9 @@ __The HackYourFuture team__
 
 ## Final thoughts 
 
-Throughout you HYF course and you overall career as a programmer, you will ‘control your own fate’. 30 hours of study is just the minimum we suggest. The more you know and the harder you work, the faster you will find yourself in a job you love. The more you participate and become part of the HYF community, the more people are going to be willing to help you out. The more friends you make.
+As of 2018, 65 students graduated from our program. Almost 90% have found a job or internship after graduation. In other words, HackYourFuture works. However,
+
+throughout your HYF course and your overall career as a programmer, you will ‘control your own fate’. 30 hours of study is just the minimum we suggest. The more you know and the harder you work, the faster you will find yourself in a job you love. The more you participate and contribute to the HYF community, the more people are going to be willing to help you out. The more friends you make.
 
 We want to provide you with the knowledge, tools and support you need to build a career as a programmer. To support yourself and your loved ones.
 
