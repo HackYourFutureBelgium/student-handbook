@@ -1,4 +1,4 @@
-# Student Handbook
+# Student Guidebook
 
 ![](./images/hyf-logo.png)
 
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Dear new student of HackYourFuture, Welcome to our program!
+Dear new student of HackYourFuture, Welcome to our community!
 
 On average, we receive 100-150 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment.
 
@@ -19,16 +19,15 @@ You are now a member of a growing community and our course will be challenging. 
 Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
 
 This guide consists of five chapters. 
-* Chapter zero lays out HackYourFuture’s core values.
-* In the first chapter, we provide a short summary of our program. This will answer the question: What will I learn at HackYourFuture? 
-* The second chapter discusses the six steps of problem solving, the core skill of what programming is really all about. 
-* Chapter three talks about how to study programming most effectively. 
-* The fourth chapter details how you can become better at asking questions, which is vital to become a good programmer. 
-
-
-Like you, this document is always improving. If you feel something is missing or might be improved, please send a pull request or open an issue.
+* Chapter one lays out HackYourFuture’s core values.
+* Chapter 2 provides an answer to the question: What will I learn at HackYourFuture? 
+* Chapter 3 discusses the six steps of problem solving, the core skill of what programming is really all about. 
+* Chapter 4 answers the question how to study programming most effectively. 
+* Chapter 5 shows you how to learn asking questions, which is vital to become a good programmer.
 
 Good luck on your journey!
+
+PS. Like you, this document is always improving. If you feel something is missing or might be improved, please send a pull request or open an issue.
 
 __The HackYourFuture team__
 
