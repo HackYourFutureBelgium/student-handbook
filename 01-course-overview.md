@@ -14,10 +14,10 @@ In order for this to be turned into reality, you will have to work very hard for
 In the following section you’ll get an overview of all the subjects you’ll be learning through the course. Keep in mind that .
 
 ### Index
-1. [curriculum](#curriculum)
-1. [homework and preparation](#homework-and-preparation)
-1. [teachers](#teachers)
-1. [start your career](#start-your-career)
+1. [Curriculum](#curriculum)
+1. [Homework and preparation](#homework-and-preparation)
+1. [Coaches](#coaches)
+1. [Start your career](#start-your-career)
 
 ---
 
@@ -60,11 +60,12 @@ Handing in homework without proper communication ​will not be tolerated​ (se
 
 ---
 
-## Teachers
+## Coaches
 
-HackYourFuture is only possible because of our amazing team of teachers.Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to ​help you​ to become a developer.
+HackYourFuture is only possible because of our amazing team of volunteer coaches. Our coaches are medior and senior software developers working at small and big companies. They usually have very busy jobs and still want to spend their limited free time ​helping you​ to become a developer. Why?
 
-_Respect their time. Value their time. Give them energy and motivate them._
+
+_Value their time. Give them energy and make them proud._
 
 
 [TOP](#course-overview)
@@ -73,13 +74,14 @@ _Respect their time. Value their time. Give them energy and motivate them._
 
 ## Start your career
 
-After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend completely on your own efforts.
+After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture mentors & the team will do their best to find suitable companies for you, as we have an extensive network of partner companies.
+**However, finding work will depend completely on your own efforts.**
 Finding an internship consists of the following steps:
 1. _CV and LinkedIn Support:_ During the project-phase we will contact you and work together to make sure you have a professional CV and LinkedIn profile ready in English.
 2. _Career Training (1 session):_ Right after graduation, we have a one-day career training in which we discuss the basics of finding an internship, how to prepare for interviews, salary negotiations etc.
 3. _Practice Interview (1 session):_ Two interviewers will test your social and technical skills (60-90 minutes). After this, you receive feedback about your performance. This will make you less nervous and prepare you for real interviews with companies.
-4. _Improve your technical skills:_ One of the biggest risks is to stop coding after graduation. This will significantly​ decrease your chances of finding an internship. Therefore, we have projects that you can build, with support from teachers, to develop your skills. You can also add these projects to your CV!
-5. _Finding internship possibilities:_ We will share a Google Doc list with you. We will train you to find leads for companies that are hiring developers. You will share these contacts with us and we will contact these companies (our experience has taught us this works better than if you contact companies yourself). In addition, we also have a network of partners of our own, which we will use to introduce you to companies.
+4. _Improve your technical skills:_ One of the biggest risks is to stop coding after graduation. This will significantly​ decrease your chances of finding an internship. Therefore, we encourage you to continue coding within the HYF-community, with support from other alumni and coaches, to develop your skills.
+5. _Finding internship possibilities:_ We will share job opportunities with you. We will train you to find leads for companies that are hiring developers. You will share these contacts with us and we will contact these companies (our experience has taught us this works better than if you contact companies yourself). In addition, we also have a network of partners of our own, which we will use to introduce you to companies.
 
 > IMPORTANT​: Finding an internship opportunity is a two-way street. While we reach out to many different companies, you need to contribute. You can control your chances of getting an internship by working on your technical and communication skills, and provide us with leads to companies.
 
